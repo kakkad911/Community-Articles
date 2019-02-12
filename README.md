@@ -1,8 +1,8 @@
-# Community-Articles
+# Community Articles and Content Requirement 
 
-# Current Requirement: 
+# Current Topic for Community Contribution: 
 
-## XinFin
+## XinFin Network
 
 Bounty Artcile under 
 
@@ -10,7 +10,7 @@ How to setup Masternode
 
 How to use XinFin Wallet with various institutional usecase 
 
-DPoS Artcile with Improtance of KYC Compliant node. 
+DPoS Artcile with KYC importance. 
 
 
 ## Mycontract
@@ -28,5 +28,7 @@ Case study with Actual Client of Mycontract
 How to get Free XDC. 
 
 
+## Kramaa 
 
+How to connect 1st IoT device. 
 
