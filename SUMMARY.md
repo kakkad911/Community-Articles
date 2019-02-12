@@ -7,6 +7,10 @@
 * [Airnetz Charter](airnetz-charter/README.md)
   * [Published](airnetz-charter/published.md)
   * [Articles](airnetz-charter/articles.md)
-* [Turant Pay](turant-pay.md)
-* [Tradefinex](tradefinex.md)
+* [Turant Pay](turant-pay/README.md)
+  * [Articles](turant-pay/articles.md)
+  * [Published](turant-pay/published.md)
+* [Tradefinex](tradefinex/README.md)
+  * [Articles](tradefinex/articles.md)
+  * [Published](tradefinex/published.md)
 
