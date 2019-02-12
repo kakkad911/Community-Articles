@@ -1,6 +1,4 @@
-# Community Articles and Content Requirement 
-
-# Current Topic for Community Contribution: 
+# Contribution topic for Articles & Content 
 
 ## XinFin Network
 
