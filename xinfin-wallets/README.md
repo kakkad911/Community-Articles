@@ -1,6 +1,6 @@
 ---
-description: XinFin Wallets Publication Links and Articles
+description: XDC/XDCe Wallet Publication Links and Articles
 ---
 
-# XinFin Wallets
+# XDC/XDCe Wallet
 

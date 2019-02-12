@@ -50,7 +50,7 @@
 * [XinFin PRs](xinfin-prs/README.md)
   * [PRs](xinfin-prs/prs.md)
   * [Publication Links](xinfin-prs/publication-links.md)
-* [XinFin Wallets](xinfin-wallets/README.md)
+* [XDC/XDCe Wallet](xinfin-wallets/README.md)
   * [Articles](xinfin-wallets/articles.md)
   * [Publication Links](xinfin-wallets/publication-links.md)
 
