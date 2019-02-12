@@ -11,7 +11,9 @@
   * [Articles](turant-pay/articles.md)
   * [Published](turant-pay/published.md)
 * [Tradefinex](tradefinex/README.md)
-  * [Articles](tradefinex/articles.md)
+  * [Articles](tradefinex/articles/README.md)
+    * [Articles By Omkar](tradefinex/articles/articles-by-omkar.md)
   * [Published](tradefinex/published/README.md)
     * [TradeFinex — The Future of Funding Infrastructure](https://medium.com/@davidfreuden/tradefinex-the-future-of-funding-infrastructure-creating-jobs-and-boosting-economic-development-2f3d41923ef2)
+    * [TradeFinex on XinFin Hybrid Blockchain](https://medium.com/xinfin/tradefinex-on-xinfin-hybrid-blockchain-enables-unbanked-population-with-peer-to-peer-cross-trade-e5139ad85cfa)
 
