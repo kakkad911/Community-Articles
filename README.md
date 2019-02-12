@@ -1,4 +1,3 @@
-# Community-Articles
+# Community Articles & Content 
 
-MyContract.co
 
