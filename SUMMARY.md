@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Airnetz Charter](README.md)
+* [Community-Articles](README.md)
 
 ## Turant Pay
-
-* [Untitled](turant-pay/untitled.md)
 
