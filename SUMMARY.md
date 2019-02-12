@@ -44,4 +44,10 @@
 * [XinFin](xinfin/README.md)
   * [Articles](xinfin/articles.md)
   * [Publication Links](xinfin/publication-links.md)
+* [XinFin Partnerships](xinfin-partnerships/README.md)
+  * [Articles](xinfin-partnerships/articles.md)
+  * [Publication Links](xinfin-partnerships/publication-links.md)
+* [XinFin PRs](xinfin-prs/README.md)
+  * [PRs](xinfin-prs/prs.md)
+  * [Publication Links](xinfin-prs/publication-links.md)
 
