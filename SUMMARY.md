@@ -12,6 +12,6 @@
   * [Published](turant-pay/published.md)
 * [Tradefinex](tradefinex/README.md)
   * [Articles](tradefinex/articles.md)
-  * [Published](tradefinex/published.md)
-* [TradeFinex — The Future of Funding Infrastructure](https://medium.com/@davidfreuden/tradefinex-the-future-of-funding-infrastructure-creating-jobs-and-boosting-economic-development-2f3d41923ef2)
+  * [Published](tradefinex/published/README.md)
+    * [TradeFinex — The Future of Funding Infrastructure](https://medium.com/@davidfreuden/tradefinex-the-future-of-funding-infrastructure-creating-jobs-and-boosting-economic-development-2f3d41923ef2)
 
