@@ -2,7 +2,7 @@
 
 # Current Requirement: 
 
-XinFin
+## XinFin
 
 Bounty Artcile under 
 
@@ -13,7 +13,7 @@ How to use XinFin Wallet with various institutional usecase
 DPoS Artcile with Improtance of KYC Compliant node. 
 
 
-Mycontract
+## Mycontract
 
 How to create and deploy various Bond, Security, fungible and non-fungible token without code expertise 
 
@@ -23,7 +23,7 @@ Case study with Actual Client of Mycontract
 
 
 
-Alphaex
+## Alphaex
 
 How to get Free XDC. 
 
