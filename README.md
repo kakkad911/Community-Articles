@@ -1,3 +1,2 @@
-# Community Articles & Content 
-
+# Community-Articles
 
