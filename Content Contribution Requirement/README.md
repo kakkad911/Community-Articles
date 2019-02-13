@@ -2,9 +2,9 @@
 
 ## XinFin Network
 
-Bounty PR draft
+Bounty Lanuch PR draft
 
-How to setup Masternode
+How to setup Masternode. Guide to setup masternode with screen shot
 
 How to use XinFin Wallet with various institutional usecase 
 
@@ -23,7 +23,7 @@ Case study with Actual Client of Mycontract
 
 ## Alphaex
 
-How to get Free XDC. 
+How to get Free XDC. PR around referral plan. 
 
 
 ## Kramaa 
