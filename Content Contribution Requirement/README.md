@@ -2,7 +2,7 @@
 
 ## XinFin Network
 
-Bounty Artcile under 
+Bounty PR draft
 
 How to setup Masternode
 
