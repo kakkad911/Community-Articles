@@ -1,4 +1,4 @@
-# XinFin Community Content Contribution Links
+## XinFin Community Content Contribution Links
 
 - [Contributing to the Rackspace How-To content repository](#contributing-to-the-rackspace-how-to-content-repository)
 	- [Getting started with GitHub](#getting-started-with-github)
