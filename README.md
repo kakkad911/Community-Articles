@@ -13,18 +13,14 @@
 	- [Writing guidelines](#writing-guidelines)
 	- [Support and feedback](#support-and-feedback)
 
-**Important:** You need to log in to public GitHub, not the enterprise GitHub, to contribute. If you have questions then Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) and put up your queries. We would love to answer your questions.
-
-You can also join our [Public Slack Group](https://launchpass.com/xinfin-public). Enter your E-mail ID and you will get an invite to our slack.
-
+**Important:** You need to log in to public GitHub, not the enterprise GitHub, to contribute. If you have questions then Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) or join our [Public Slack Group](https://launchpass.com/xinfin-public) and put up your queries. We would love to answer your questions.
 
 
 ## Contributing to the XinFin content repository
 
 This file describes the general process for maintaining source code for content published at various utility products.
 
-See [Treat Documentation Like Code](https://www.youtube.com/watch?v=haFooDkKr-A&feature=youtu.be) for a brief video overview of how to edit articles on the How-To support network.
-If you are a Racker, search MyLearn for the Treat Docs Like Code course.
+See [Treat Documentation Like Code](https://www.youtube.com/watch?v=haFooDkKr-A&feature=youtu.be) for a brief video overview of how to edit articles on the XinFin network.
 
 **Note**: If you already have a GitHub account, you can quickly edit an existing article by clicking on the Edit This Article button on the left-hand side of the page.
 
@@ -40,13 +36,13 @@ Before you create a new article or make edits to an existing one, create a *fork
 
 2. In the pop-up box, select your personal GitHub account.
 
-A personal copy of the How-To repository is created in your GitHub account. You can access your fork by going to the [GitHub home page](https://github.com) and selecting **rackspace-how-to** under **Your repositories**.
+A personal copy of the How-To repository is created in your GitHub account. You can access your fork by going to the [GitHub home page](https://github.com) and selecting **Community-Articles** under **Your repositories**.
 
 #### Keeping your fork up to date
 
-Because your forked copy of the repository is not live, you need to periodically update it with changes from the live repository. A status message above the latest commit activity informs you whether your forked repository is current with the master How-To repository. If the status says `This branch is X commits behind rackerlabs:master`, update your repo by clicking the **Pull request** button to the right of the message.
+Because your forked copy of the repository is not live, you need to periodically update it with changes from the live repository. A status message above the latest commit activity informs you whether your forked repository is current with the master How-To repository. If the status says `This branch is X commits behind xinfinorg:master`, update your repo by clicking the **Pull request** button to the right of the message.
 
-**Note:** If you get a message that the rackerlabs:master branch is up-to-date with commits from your master branch, click the "switching the base" link.
+**Note:** If you get a message that the xinfinorg:master branch is up-to-date with commits from your master branch, click the "switching the base" link.
 
 **WARNING:** To avoid any merge conflicts or difficulties when making a pull request, always check that your copy of the fork is up to date with the master repository.
 
@@ -58,13 +54,13 @@ Articles are grouped into one directory per product. Each directory contains one
 
 #### Create an article
 
-Follow these steps to create a new article within a product folder of the **rackerlabs/rackspace-how-to** repo.
+Follow these steps to create a new article within a product folder of the **XinFinOrg/Community-Articles** repo.
 
-1. Go to the [Rackspace How-To content folder](https://github.com/rackerlabs/rackspace-how-to/tree/master/content) and click the product for which you want to create an article.
+1. Go to the [XinFin'Community-Articles folder](https://github.com/XinFinOrg/Community-Articles) and click the utility/product for which you want to create an article.
 
 2. Click **Create new file**.
 
-3. Enter a name for your article in the text box at the end of the **rackspace-how-to/content/*productName*/** string. The name should be in the format **your-article-name.md** and should reflect the title of the article.
+3. Enter a name for your article in the text box at the end of the **XinFinOrg/Community-Articles/*productName*/** string. The name should be in the format **your-article-name.md** and should reflect the title of the article.
 
 4. <a name="metadata"></a>Enter header information using the format shown in the following example:
 
@@ -88,18 +84,18 @@ Follow these steps to create a new article within a product folder of the **rack
 
 8. Create a pull request (PR). On the "Open a pull request" page, check the following settings:
 
-    - `base fork: rackerlabs/rackspace-how-to`
+    - `base fork: XinFinOrg/Community-Articles`
     - `base: master`
-    - `head fork: {your-username}/rackspac...`
+    - `head fork: {your-username}/xinfin...`
     - `compare: {your-branch}`
 
    If the settings are not correct, use the drop down menus to select the correct settings. The fork menus may not be present.
 
 9. Describe the reasons for your change in the comment box, and then select **Create pull request**.
 
-**Note:** If your article includes images, send an email to <how-to@rackspace.com> with the image files. Note where the images belong in the article by using comments: `<!--this is a comment-->`.
+**Note:** If your article includes images, send an email to <info@xinfin.org> with the image files. Note where the images belong in the article by using comments: `<!--this is a comment-->`.
 
 10. Request reviews of your PR from the Information Development team in the
-    ``#how-to`` channel in Slack.
+    ``#general`` channel in Slack.
 
-Your PR will be reviewed. Depending on the review feedback, you might be asked to make additional changes. The How-To editorial team will merge your pull request once your contribution is reviewed.
+Your content will be reviewed. Depending on the review feedback, you might be asked to make additional changes. The editorial team will merge your pull request once your contribution is reviewed.
