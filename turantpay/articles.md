@@ -1,6 +1,0 @@
----
-description: TurantPay Articles
----
-
-# Articles
-

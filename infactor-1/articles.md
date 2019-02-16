@@ -1,6 +1,0 @@
----
-description: inFactor Articles
----
-
-# Articles
-
