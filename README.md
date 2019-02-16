@@ -1,6 +1,6 @@
 ---
 description: >-
-   XinFin Community Contribution Resource Links for Articles/Content
+   XinFin Community Contribution Resource Links for Content
 ---
 
 # Community Contribution resource for Content / Articles-
