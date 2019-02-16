@@ -1,4 +1,4 @@
-# Xinfin Resource's
+# XinFin Content 
 
-XinFin Community Content/Resource Contribution Links
+XinFin Community Content Contribution Links
 
