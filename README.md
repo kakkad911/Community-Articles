@@ -1,6 +1,4 @@
----
-description: XinFin Community Content/Resource Contribution  Links
----
-
 # Xinfin Resource's
+
+XinFin Community Content/Resource Contribution Links
 
