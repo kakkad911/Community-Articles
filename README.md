@@ -1,8 +1,7 @@
 ---
 description: >-
-  Publication Links and Articles from XinFin Community, Supporters, Top Media
-  Journalists and Content Writers
+   XinFin Community Contribution Resource Links for Articles/Content
 ---
 
-# Community-Articles
+# Community Contribution resource for Content / Articles-
 
