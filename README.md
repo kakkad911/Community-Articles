@@ -100,9 +100,9 @@ Follow these steps to create a new article within a product folder of the **XinF
 Your content will be reviewed. Depending on the review feedback, you might be asked to make additional changes. The editorial team will merge your pull request once your contribution is reviewed.
 #### Edit an article
 
-Follow these steps to edit an existing article within a product folder of the **rackerlabs/rackspace-how-to** repo.
+Follow these steps to edit an existing article within a product folder of the **xinfinorg/Community-Articles** repo.
 
-1. Go to the [Rackspace How-To content folder](https://github.com/rackerlabs/rackspace-how-to/tree/master/content) and click the product for which you want to edit an article.
+1. Go to the [XinFin content folder](https://github.com/xinfinorg/community-articles/) and click the product/utility for which you want to edit an article.
 
 2. Find the article you want to edit and click to open the file.
 
@@ -118,9 +118,9 @@ Follow these steps to edit an existing article within a product folder of the **
 
 7. On the "Open a pull request" page, check the following settings:
 
-    - `base fork: rackerlabs/rackspace-how-to`
+    - `base fork: xinfinorg/Community-Articles`
     - `base: master`
-    - `head fork: {your-username}/rackspac...`
+    - `head fork: {your-username}/xinfinorg...`
     - `compare: {your-branch}`
 
    If the settings are not correct, use the drop down menus to select the correct settings. The fork menus may not be present.
@@ -135,7 +135,7 @@ Follow these steps to edit an existing article within a product folder of the **
 8. Click **Create pull request**.
 
 9. Request reviews of your PR from the Information Development team in the
-    ``#how-to`` channel in Slack.
+    ``#general`` channel in Slack.
 
 Your PR will be reviewed. Depending on the review feedback, you might be asked to make additional changes. The How-To editorial team will merge your pull request once your contribution is reviewed.
 
@@ -185,7 +185,7 @@ Following are some specific guidelines for How-To content:
 
 - For the first-level headings in an article, use the H3 level (designated by ###). Avoid using more than three levels of heading in an article (H3, H4, and H5). If you need more than three levels, you should consider breaking your article into two or more articles.
 
-- When an article mainly provides step-by-step instructions for users to follow, begin the title of the article with an imperative verb. For example: Install the Cloud Backup agent on Windows.
+- When an article mainly provides step-by-step instructions for users to follow, begin the title of the article with an imperative verb. For example: How to Setup Masternode.
 
 - If a title contains a special character, such as a colon, enclose the title with single quotation marks.
 
