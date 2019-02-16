@@ -1,6 +1,6 @@
 ## XinFin Community Content Contribution Links
 
-- [Contributing to the Rackspace How-To content repository](#contributing-to-the-rackspace-how-to-content-repository)
+- [Contributing to the XinFin content repository](#contributing-to-the-rackspace-how-to-content-repository)
 	- [Getting started with GitHub](#getting-started-with-github)
 		- [Create a fork of this repository](#create-a-fork-of-this-repository)
 		- [Keeping your fork up to date](#keeping-your-fork-up-to-date)
@@ -13,7 +13,11 @@
 	- [Writing guidelines](#writing-guidelines)
 	- [Support and feedback](#support-and-feedback)
 
-**Important:** You need to log in to public GitHub, not the enterprise GitHub, to contribute. If you have questions, contact us at [how-to@rackspace.com](mailto:how-to@rackspace.com).
+**Important:** You need to log in to public GitHub, not the enterprise GitHub, to contribute. If you have questions then Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) and put up your queries. We would love to answer your questions.
+
+You can also join our [Public Slack Group](https://launchpass.com/xinfin-public). Enter your E-mail ID and you will get an invite to our slack.
+
+
 
 ## Contributing to the Rackspace How-To content repository
 
