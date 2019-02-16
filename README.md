@@ -1,7 +1,5 @@
 ---
 description: >-
-   XinFin Community Contribution Resource Links for Content
+   XinFin Community Content/Resource Contribution  Links 
 ---
-
-# Community Contribution resource for Content / Articles-
 
