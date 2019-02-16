@@ -6,7 +6,6 @@
 		- [Keeping your fork up to date](#keeping-your-fork-up-to-date)
 	- [Creating and changing articles](#creating-and-changing-articles)
 		- [Create an article](#create-an-article)
-    
 		- [Edit an article](#edit-an-article)
 		- [Make a change to a PR](#make-a-change-to-a-pr)
 		- [Request an article change](#request-an-article-change)
