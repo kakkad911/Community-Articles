@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Xinfin Content / Resource](README.md)
+* [Xinfin Resource's](README.md)
 * [InFactor](infactor/README.md)
   * [Articles](infactor/articles.md)
   * [Publication Links](infactor/publication-links.md)
