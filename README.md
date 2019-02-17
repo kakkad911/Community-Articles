@@ -22,28 +22,6 @@ See [Treat Documentation Like Code]() for a brief video overview (Coming soon) o
 
 **Note**: If you already have a GitHub account, you can quickly edit an existing article by clicking on the Edit This Article button on the left-hand side of the page.
 
-### Getting started with GitHub
-
-To contribute to the How-To repository, you need a GitHub account. If you do not have a GitHub account, you can sign up for one [https://github.com/join](https://github.com/join).
-
-#### Create a fork of this repository
-
-Before you create a new article or make edits to an existing one, create a *fork* of the How-To repository.
-
-1. In the top-right corner of the page, click the **Fork** button.
-
-2. In the pop-up box, select your personal GitHub account.
-
-A personal copy of the How-To repository is created in your GitHub account. You can access your fork by going to the [GitHub home page](https://github.com) and selecting **Community-Articles** under **Your repositories**.
-
-#### Keeping your fork up to date
-
-Because your forked copy of the repository is not live, you need to periodically update it with changes from the live repository. A status message above the latest commit activity informs you whether your forked repository is current with the master How-To repository. If the status says `This branch is X commits behind xinfinorg:master`, update your repo by clicking the **Pull request** button to the right of the message.
-
-**Note:** If you get a message that the xinfinorg:master branch is up-to-date with commits from your master branch, click the "switching the base" link.
-
-**WARNING:** To avoid any merge conflicts or difficulties when making a pull request, always check that your copy of the fork is up to date with the master repository.
-
 ### Creating and changing articles
 
 Use the following instructions to create a new article, make edits to an existing one, or suggest edits via an issue.
@@ -164,6 +142,31 @@ The How-To team will comment on the PR if any more changes need to be made.
 #### Request an article change
 
 To request a change, create an issue by clicking **Issue** near the top of this page. Describe the changes that you are requesting.
+
+### Getting started with GitHub
+
+To contribute to the How-To repository, you need a GitHub account. If you do not have a GitHub account, you can sign up for one [https://github.com/join](https://github.com/join).
+
+#### Create a fork of this repository
+
+Before you create a new article or make edits to an existing one, create a *fork* of the How-To repository.
+
+1. In the top-right corner of the page, click the **Fork** button.
+
+2. In the pop-up box, select your personal GitHub account.
+
+A personal copy of the How-To repository is created in your GitHub account. You can access your fork by going to the [GitHub home page](https://github.com) and selecting **Community-Articles** under **Your repositories**.
+
+#### Keeping your fork up to date
+
+Because your forked copy of the repository is not live, you need to periodically update it with changes from the live repository. A status message above the latest commit activity informs you whether your forked repository is current with the master How-To repository. If the status says `This branch is X commits behind xinfinorg:master`, update your repo by clicking the **Pull request** button to the right of the message.
+
+**Note:** If you get a message that the xinfinorg:master branch is up-to-date with commits from your master branch, click the "switching the base" link.
+
+**WARNING:** To avoid any merge conflicts or difficulties when making a pull request, always check that your copy of the fork is up to date with the master repository.
+
+
+
 
 ### Writing guidelines
 
