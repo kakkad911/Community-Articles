@@ -12,7 +12,7 @@
 	- [Writing guidelines](#writing-guidelines)
 	- [Support and feedback](#support-and-feedback)
 
-**Important:** You need to log in to public GitHub, not the enterprise GitHub, to contribute. If you have questions then Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) or join our [Public Slack Group](https://launchpass.com/xinfin-public) and put up your queries. We would love to answer your questions.
+**Important:** You need to log in to public GitHub, not the enterprise GitHub, to contribute. If you have questions then Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) or join our [Public Slack Group](https://launchpass.com/xinfin-public) and put up your queries. 
 
 ### Contributing to the XinFin content repository
 
