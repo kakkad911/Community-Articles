@@ -26,7 +26,7 @@ See [brief video overview](https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2eg
 
 Use the following instructions to create a new article, make edits to an existing one, or suggest edits via an issue.
 
-Articles are grouped into one directory per product. Each directory contains one file per article.
+Articles are grouped into one directory per Utility (e.g:/mycontract, /tradefinex, /infactor etc). Each directory contains one utility or product each.
 
 #### Create an article
 
