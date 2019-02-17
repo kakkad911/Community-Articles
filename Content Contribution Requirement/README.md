@@ -35,6 +35,15 @@ Case study with Actual Client of Mycontract
 Video Requirement:
 How to create and deploy Bond
 
+### How to Contribute:
+
+Fork Repo: https://github.com/XinFinOrg/Community-Articles/tree/master/mycontract 
+
+"Create New file" with suitable title like "How to Setup XinFin Masternode" When you have finished writing your article, review it in the Preview tab.
+
+At the bottom of the page, click "Propose new file"
+
+
 
 ## Alphaex
 
@@ -43,8 +52,23 @@ How to get Free XDC. PR around referral plan.
 Video Requirement:
 How to get Free XDC using Alphaex referral plan. 
 
+### How to Contribute:
+
+Fork Repo: https://github.com/XinFinOrg/Community-Articles/tree/master/alphaex
+
+"Create New file" with suitable title like "How to Setup XinFin Masternode" When you have finished writing your article, review it in the Preview tab.
+
+At the bottom of the page, click "Propose new file"
+
 
 ## Kramaa 
 
 How to connect 1st IoT device. 
 
+### How to Contribute:
+
+Fork Repo: https://github.com/XinFinOrg/Community-Articles/tree/master/kramaa
+
+"Create New file" with suitable title like "How to Setup XinFin Masternode" When you have finished writing your article, review it in the Preview tab.
+
+At the bottom of the page, click "Propose new file"
