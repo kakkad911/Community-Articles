@@ -19,7 +19,7 @@
 
 This file describes the general process for maintaining source code for content published at various utility products.
 
-See [Treat Documentation Like Code](https://www.youtube.com/watch?v=haFooDkKr-A&feature=youtu.be) for a brief video overview of how to edit articles on the XinFin network.
+See [Treat Documentation Like Code]() for a brief video overview (Coming soon) of how to edit articles on the XinFin network.
 
 **Note**: If you already have a GitHub account, you can quickly edit an existing article by clicking on the Edit This Article button on the left-hand side of the page.
 
@@ -94,7 +94,7 @@ Follow these steps to create a new article within a product folder of the **XinF
 
 **Note:** If your article includes images, send an email to <info@xinfin.org> with the image files. Note where the images belong in the article by using comments: `<!--this is a comment-->`.
 
-10. Request reviews of your PR from the Information Development team in the
+10. Request reviews of your PR (pull request) from the Information Development team in the
     ``#general`` channel in Slack.
 
 Your content will be reviewed. Depending on the review feedback, you might be asked to make additional changes. The editorial team will merge your pull request once your contribution is reviewed.
@@ -139,7 +139,7 @@ Follow these steps to edit an existing article within a product folder of the **
 
 Your PR will be reviewed. Depending on the review feedback, you might be asked to make additional changes. The How-To editorial team will merge your pull request once your contribution is reviewed.
 
-#### Make a change to a PR
+#### Make a change to a pull request (PR)
 
 You might be asked by a member of the editorial team to update your PR. Follow the steps below to make an update to your PR.
 
