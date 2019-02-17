@@ -1,6 +1,6 @@
 ## XinFin Community Content Contribution 
 
-- [Contributing to the XinFin content repository](#contributing-to-the-rackspace-how-to-content-repository)
+- [Contributing to the XinFin content repository](#contributing-to-the-XinFin-content-repository)
 	- [Getting started with GitHub](#getting-started-with-github)
 		- [Create a fork of this repository](#create-a-fork-of-this-repository)
 		- [Keeping your fork up to date](#keeping-your-fork-up-to-date)
