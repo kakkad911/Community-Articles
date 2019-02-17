@@ -1,4 +1,4 @@
-# Current Content Contribution requirement
+# Current Content Contribution Requirement
 
 ## XinFin Network
 
