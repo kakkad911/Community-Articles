@@ -1,6 +1,9 @@
 # Table of contents
 
+
 * [XinFin Resources](README.md)
+* [XinFin](xinfin/README.md)
+* [Articles](xinfin/articles.md)
 * [InFactor](infactor/README.md)
   * [Articles](infactor/articles.md)
 * [TradeFinex](tradefinex/README.md)
@@ -17,6 +20,4 @@
   * [Articles](turantpay/articles.md)
 * [Kramaa](kramaa/README.md)
   * [Articles](kramaa/articles.md)
-* [XinFin](xinfin/README.md)
-  * [Articles](xinfin/articles.md)
 
