@@ -2,17 +2,17 @@
 
 ## XinFin Network
 
-Bounty Lanuch Press Release draft. reference website: https://xinfin.org/bounty.php 
+Press Release draft for "XinFin Bounty Lanuch". reference website for content: https://xinfin.org/bounty.php 
 
-How to setup Masternode. Guide to setup masternode with screen shot 
+How to Article.. "How to setup XinFin Masternode". Guide to setup masternode with screen shot 
 Refernce : https://xinfin.org/setup-masternode.php
 
-How to use XinFin Wallet with various institutional usecase 
+How to Article.. "How to use XinFin Wallet" with various institutional and real world usecase 
 
-DPoS Artcile with KYC importance. 
+Medium Article "DPoS Artcile with KYC importance." 
 
-Video Requirement: 
-How to setup Masternode. Guide to setup masternode Video 
+Video Creation Requirement: 
+How to Video..How to setup Masternode. Guide to setup masternode Video 
 Refernce : https://xinfin.org/setup-masternode.php
 
 ### How to Contribute:
@@ -26,14 +26,13 @@ At the bottom of the page, click "Propose new file"
 
 ## Mycontract
 
-How to create and deploy various Bond, Security, fungible and non-fungible token without code expertise 
+How to Article.. How to create and deploy various Bond, Security, fungible and non-fungible token without code expertise 
 
-How to creat Non-fungible Contract with easy step.
+How to Article.. How to create Non-fungible Contract with easy step.
 
-Case study with Actual Client of Mycontract
+Case Study with Actual Client of Mycontract
 
-Video Requirement:
-How to create and deploy Bond
+How to Video Requirement: "How to create and deploy Bond"
 
 ### How to Contribute:
 
@@ -47,10 +46,9 @@ At the bottom of the page, click "Propose new file"
 
 ## Alphaex
 
-How to get Free XDC. PR around referral plan. 
+How to Article.. "How to get Free XDC." article on referral plan. 
 
-Video Requirement:
-How to get Free XDC using Alphaex referral plan. 
+How to Video Requirement: "How to get Free XDC using Alphaex referral plan."
 
 ### How to Contribute:
 
@@ -63,7 +61,7 @@ At the bottom of the page, click "Propose new file"
 
 ## Kramaa 
 
-How to connect 1st IoT device. 
+How to Article.. "How to connect 1st IoT device." reference website. https://www.kramaa.com/ 
 
 ### How to Contribute:
 
