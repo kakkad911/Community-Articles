@@ -15,7 +15,7 @@ Video Requirement:
 How to setup Masternode. Guide to setup masternode Video 
 Refernce : https://xinfin.org/setup-masternode.php
 
-#How to Contribute:
+# How to Contribute:
 
 Fork Repo: https://github.com/XinFinOrg/Community-Articles/tree/master/xinfin
 
