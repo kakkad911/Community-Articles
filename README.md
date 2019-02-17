@@ -17,7 +17,7 @@
 
 ### Contributing to the XinFin content repository
 
-This file describes the general process for maintaining source code for content published at various [XinFin utility](https://xinfin.org/xdc-utility.php).
+This file describes the general process for maintaining source code for content published at various [XinFin utility website](https://xinfin.org/xdc-utility.php).
 
 **Note**: If you already have a GitHub account, you can quickly edit an existing article by clicking on the Edit This Article button on the left-hand side of the page.
 
