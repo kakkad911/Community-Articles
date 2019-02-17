@@ -3,7 +3,7 @@
 - [Contributing to the XinFin content repository](#contributing-to-the-xinfin-content-repository)
 	- [Creating and changing articles](#creating-and-changing-articles)
 		- [Current Content Requirement](https://github.com/XinFinOrg/Community-Articles/tree/master/Content%20Contribution%20Requirement) 
-		- [Create an article](#create-an-article) and 
+		- [Create an article](#create-an-article) 
 		- [Edit an article](#edit-an-article)
 		- [Make a change to a PR](#make-a-change-to-a-pr)
 		- [Request an article change](#request-an-article-change)
