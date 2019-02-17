@@ -18,7 +18,7 @@
 
 This file describes the general process for maintaining source code for content published at various [XinFin utility](https://xinfin.org/xdc-utility.php).
 
-See [brief video overview](https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g) (Coming Soon..) of how to edit articles on the XinFin network.
+See [brief video overview](https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g) (Coming Soon..) of how to add/edit content on the XinFin network.
 
 **Note**: If you already have a GitHub account, you can quickly edit an existing article by clicking on the Edit This Article button on the left-hand side of the page.
 
