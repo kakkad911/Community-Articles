@@ -1,6 +1,6 @@
 ## XinFin Community Content Contribution 
 
-- [Contributing to the XinFin content repository](#contributing-to-the-xinFin-content-repository)
+- [Contributing to the XinFin content repository](#contributing-to-the-XinFin-content-repository)
 	- [Creating and changing articles](#creating-and-changing-articles)
 		- [Create an article](#create-an-article)
 		- [Edit an article](#edit-an-article)
