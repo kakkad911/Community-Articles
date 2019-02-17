@@ -1,4 +1,4 @@
-# Contribution topic for Articles & Content 
+# Content Contribution requirement for below mention topic
 
 ## XinFin Network
 
