@@ -167,7 +167,7 @@ To request a change, create an issue by clicking **Issue** near the top of this 
 
 ### Writing guidelines
 
-Use the following general writing guidelines, which are described in detail in [style-guidelines.md](style-guidelines.md):
+Use the following general writing guidelines:
 
 - Use sentence-style capitalization for titles and headings
 - Use active voice
