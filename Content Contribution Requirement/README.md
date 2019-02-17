@@ -2,7 +2,7 @@
 
 ## XinFin Network
 
-Bounty Lanuch PR draft
+Bounty Lanuch Press Release draft
 
 How to setup Masternode. Guide to setup masternode with screen shot 
 Refernce : https://xinfin.org/setup-masternode.php
@@ -15,6 +15,12 @@ Video Requirement:
 How to setup Masternode. Guide to setup masternode Video 
 Refernce : https://xinfin.org/setup-masternode.php
 
+How to Contribute:
+Fork Repo: https://github.com/XinFinOrg/Community-Articles/tree/master/xinfin
+
+"Create New file" with suitable title like "How to Setup XinFin Masternode" When you have finished writing your article, review it in the Preview tab.
+
+At the bottom of the page, click Propose new file.
 
 
 ## Mycontract
