@@ -136,7 +136,7 @@ You might be asked by a member of the editorial team to update your PR. Follow t
 7. Click the **Commit directly to the `your-branch-name` branch** option, and then click **Commit changes**.
 
 8. Request reviews of your PR from the Information Development team in the
-    ``#how-to`` channel in Slack.
+    ``#general`` channel in Slack.
 
 The How-To team will comment on the PR if any more changes need to be made.
 
@@ -165,7 +165,6 @@ Because your forked copy of the repository is not live, you need to periodically
 **Note:** If you get a message that the xinfinorg:master branch is up-to-date with commits from your master branch, click the "switching the base" link.
 
 **WARNING:** To avoid any merge conflicts or difficulties when making a pull request, always check that your copy of the fork is up to date with the master repository.
-
 
 
 
